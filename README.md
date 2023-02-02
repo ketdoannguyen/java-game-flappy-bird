@@ -1,3 +1,3 @@
 # java-flappy-bird
 
-Game Flappy Bird in Java programming language
+Game Flappy Bird in Java programming language.
